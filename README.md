@@ -1,3 +1,5 @@
+![](letradomedico.png)
+
 ## O quê é o letraDOmedico?
 
 letraDOmedico é um espaço onde você encontra artigos sobre literatura, tecnologia, medicina, música, vestibulares, ENEM, e muito mais!!!
