@@ -1,4 +1,4 @@
-![](letradomedico.png)
+![ ](letradomedico.png)
 
 ## O quê é o letradomedico?
 
